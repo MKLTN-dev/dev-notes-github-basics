@@ -10,3 +10,5 @@
 Git allows safe collaboration across teams.
 
 Git is used to track changes and collaborate safely.
+## Rebasing and History
+Rebase can rewrite commit history to create a linear timeline.
